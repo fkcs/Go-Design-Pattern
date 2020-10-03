@@ -5,7 +5,7 @@
 + 单一职责原则
 + [依赖倒置原则](https://github.com/fkcs/Go-Design-Pattern/blob/main/DesighPrinciple/03%20DependencyInversion.go)
 + 接口分离原则
-+ 迪米特法则
++ [迪米特法则](https://github.com/fkcs/Go-Design-Pattern/blob/main/DesighPrinciple/05%20LawOfDemeter.go)
 + 里氏替换原则
 
 ### 设计模式
